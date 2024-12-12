@@ -1,0 +1,35 @@
+{
+  "title": {
+    "desc": "The title of the module",
+    "datatype": "string"
+  },
+  "type": {
+    "desc": "The type of this module",
+    "datatype": "string",
+    "enum": ["data", "tool", "view"]
+  },
+  "resource_uri": {
+    "desc": "URL to the interactive part of the resource",
+    "datatype": "uri"
+  },
+  "authentication": {
+    "user": {
+      "desc": "user identifier",
+      "datatype": "string",
+      "source": ["system", "user"]
+    },
+    "pass":{
+      "desc": "user password",
+      "datatype": "string",
+      "source": ["system", "user"]
+    }
+  },
+  "code": {
+    "deps":  ["list of python dependencies"],
+    "version": "version of python",
+    "functions": {
+      "func1": "...",
+      "func2": "... "
+    }
+  }
+}
