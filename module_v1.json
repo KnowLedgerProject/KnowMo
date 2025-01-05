@@ -6,7 +6,7 @@
   "type": {
     "desc": "The type of this module",
     "datatype": "string",
-    "enum": ["data", "tool", "view"]
+    "enum": ["data","tool","view"]
   },
   "resource_uri": {
     "desc": "URL to the interactive part of the resource",
@@ -16,16 +16,16 @@
     "user": {
       "desc": "user identifier",
       "datatype": "string",
-      "source": ["system", "user"]
+      "source": ["system","user"]
     },
-    "pass":{
+    "pass": {
       "desc": "user password",
       "datatype": "string",
-      "source": ["system", "user"]
+      "source": ["system","user"]
     }
   },
   "code": {
-    "deps":  ["list of python dependencies"],
+    "deps": ["list of python dependencies"],
     "version": "version of python",
     "functions": {
       "func1": "...",
@@ -33,3 +33,5 @@
     }
   }
 }
+
+
