@@ -1,5 +1,5 @@
 # KnowMo
-KnowLedger ecosystem repo for module development
+**KnowLedger** ecosystem repository for UI **module** development
 
 The focus of this repository is the definition of a specification for modules, utilized in the KnowLedger Research Data 
 Management (RDM) System.  Modules are generic containers for external resources (data repositories, services, tools, or 
