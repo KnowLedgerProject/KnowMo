@@ -41,4 +41,4 @@ manager.
 
 |                      Metadata Spec                      |                       Module Code                       |                      UI Component                      |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:------------------------------------------------------:|
-| <img src="images/knowmo_json_example.jpg" width="250"/> | <img src="images/knowmo_code_example.jpg" width="250"/> | <video src='images/knowmo_mod_example.jpg' width=200/> |
+| <img src="images/knowmo_json_example.jpg" width="250"/> | <img src="images/knowmo_code_example.jpg" width="250"/> | <video src='images/knowmo_mod_example.gif' width=200/> |
