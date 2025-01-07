@@ -33,12 +33,12 @@ will be available to users of KnowLedger from within the system configuration.
 A simple example of this is below.  Researchers need to get access to the literature and accessing metadata from the
 Crossref API is one programmatic way to do this.  A module to provide this functionality could be implemented as shown below.
 
-From left to right:  Left: A generic metadata specification (in JSON) for a module is developed and then an instance 
-(also JSON) of the schema (not shown) is created for a Crossref search tool.  Middle: The Crossref module is enabled 
+_From left to right:  **Left:** A generic metadata specification (in JSON) for a module is developed and then an instance 
+(also JSON) of the schema (not shown) is created for a Crossref search tool.  **Middle:** The Crossref module is enabled 
 for a researcher using KnowLedger and the JSON specification file is used to create the code and UI to display the 
-module.  Right: The module appears in the UI and researcher uses it to add find and import papers to the reference 
-manager.
+module.  **Right:** The module appears in the UI and researcher uses it to add find and import papers to the reference 
+manager._
 
 |                      Metadata Spec                      |                       Module Code                       |                      UI Component                      |
 |:-------------------------------------------------------:|:-------------------------------------------------------:|:------------------------------------------------------:|
-| <img src="images/knowmo_json_example.jpg" width="250"/> | <img src="images/knowmo_code_example.jpg" width="250"/> | <video src='images/knowmo_mod_example.gif' width=200/> |
+| <img src="images/knowmo_json_example.jpg" width="350"/> | <img src="images/knowmo_code_example.jpg" width="350"/> | <img src='images/knowmo_mod_example.gif' width="200"/> |
