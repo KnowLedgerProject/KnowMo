@@ -39,6 +39,6 @@ for a researcher using KnowLedger and the JSON specification file is used to cre
 module.  Right: The module appears in the UI and researcher uses it to add find and import papers to the reference 
 manager.
 
-|            Metadata Spec            | Module Code                         | UI Component                      |
-|:-----------------------------------:|-------------------------------------|-----------------------------------|
-| ![](images/knowmo_json_example.jpg) | ![](images/knowmo_code_example.jpg) | ![](video/knowmo_mod_example.mp4) |
+| <div style="width:35%;">Metadata Spec</div> | Module Code                         | UI Component                                                                                                            |
+|:-------------------------------------------:|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+|     ![](images/knowmo_json_example.jpg)     | ![](images/knowmo_code_example.jpg) | ![](https://github.com/KnowLedgerRDM/KnowMo/blob/3da3ffe5bcc5ec1b669563114a12053d86360f2a/video/knowmo_mod_example.mp4) |
